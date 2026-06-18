@@ -159,7 +159,7 @@ const Footer = () => {
               >
                 <span className="relative z-10">Contact Us</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
-                <span className="pointer-events-none absolute -top-10 left-1/2 z-20 -translate-x-1/2 whitespace-nowrap rounded-md border border-gray-700 bg-gray-800 px-3 py-1.5 text-xs text-white opacity-0 shadow-lg transition-opacity duration-300 group-hover:opacity-100">
+                <span className="pointer-events-none absolute -top-10 left-1/2 z-20 -translate-x-1/2 whitespace-nowrap rounded-md border border-gray-700 bg-gray-800 px-3 py-1.5 text-xs text-white opacity-0 shadow-lg transition-opacity duration-300 group-hover:opacity-100 group-focus-visible:opacity-100">
                   Have a question? Get in touch
                   <span className="absolute left-1/2 top-full -translate-x-1/2 border-4 border-transparent border-t-gray-800"></span>
                 </span>
